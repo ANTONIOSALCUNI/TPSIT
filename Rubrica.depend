@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618223356 source:c:\users\utente\documents\dino\antonio\isis l. di maggio\iv\tpsit\rubrica\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
